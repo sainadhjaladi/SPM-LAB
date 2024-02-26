@@ -1,0 +1,3 @@
+User stories are a fundamental concept in agile software development, primarily used in methodologies like Scrum. They serve as a lightweight technique for capturing requirements from the perspective of an end user. Here's some matter about user stories:
+
+A user story is a concise, informal description of a software feature or requirement from an end user's perspective. It typically follows a simple template: "As a [user role], I want [goal] so that [benefit]."
